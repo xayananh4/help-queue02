@@ -21,4 +21,4 @@ TicketList.propTypes = {
 };;
 
 
-export default TicketList;;
+export default TicketList;
