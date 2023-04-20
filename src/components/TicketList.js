@@ -23,7 +23,7 @@ TicketList.propTypes = {
   ticketList: PropTypes.array,
   onTicketSelection: PropTypes.func
 
-};;
+};
 
 
 export default TicketList;
